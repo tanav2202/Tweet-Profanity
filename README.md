@@ -19,7 +19,10 @@ Once the dependencies are installed, you can run the script using the following 
 python profanity_detection.py
 ```
 
-The script will read the `words.txt` and `tweets.txt` files in the same directory and generate a `degree_of_word_usage.csv` file with the results.
+The script will read the `words.txt` and `tweets.txt` files in the same directory and generate a `degree_of_word_usage.csv` file with the results
+
+https://user-images.githubusercontent.com/78900552/206565726-c79f19ac-e464-4b05-b9cd-86c5101b95e2.mp4
+
 
 ## License
 
