@@ -1,0 +1,12 @@
+,User_ID,Tweet,Words_Used,Words_Used_Count,Words_Count,Degree_of_Profanity
+0,@user1,Hello World! I am Tanav Bajaj. How are you doing today?,[],0,11,0.0
+1,@user2,Hey moron! Do you like being an asshole? Why are you such a freak?!!,"['asshole', 'freak', 'moron']",3,14,0.21428571428571427
+2,@user3,Are you an idiot? Fucking bastard! ,['bastard'],1,6,0.16666666666666666
+3,@user4,Man! What a niggar! Bloody bastard of a niggar!!,"['bastard', 'niggar']",3,9,0.2222222222222222
+4,@user5,Get a life! dog...,[],0,4,0.0
+5,@user6,"Man, I can bone that her all night long....",[],0,9,0.0
+6,@user7,I love Titanic movie. It is a cool movie...so romantic.,[],0,10,0.0
+7,@user8,Ooo what a sexy slutty girl,"['sexy', 'slutty']",2,6,0.3333333333333333
+8,@user9, what the fuck is this?,['fuck'],1,5,0.2
+9,@user10,don't be an asshole,['asshole'],1,4,0.25
+10,@user11,"fuck you, you asshole","['asshole', 'fuck']",2,4,0.5
